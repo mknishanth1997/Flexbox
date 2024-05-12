@@ -1,0 +1,30 @@
+.header {
+    background-color: #FF00FF;
+}
+.header h1 {
+    background-color: #00FF00;
+}
+.header h1:hover {
+    background-color: #FF00FF;
+}
+.body {
+    background-color: #90EE90;
+}
+.body-one p, .body-two h1, .body-three p {
+    background-color: #F2994A;
+}
+.body-one p:hover, .body-two h1:hover, .body-three p:hover {
+    background-color: #90EE90;
+}
+.footer {
+    background-color: #4169E1;
+}
+.footer p {
+    background-color: #FFC0CB;
+}
+.footer p:hover {
+    background-color: #4169E1;
+}
+* {
+    border-radius: 10px;
+}
